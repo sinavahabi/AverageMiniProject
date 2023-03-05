@@ -11,4 +11,5 @@ finaly if student mark is 12 or bellow, output will be red and different.
 if student mark is 17 or above, output will be green and different.
 otherwise, output color will be blue.
 
-note: Entering strings or unrelated numbers won't stop or crash the program.
+Note: Entering strings or unrelated numbers won't stop or crash the program.
+Note: Codes documentation and descriptions is more obvious in comments among the codes on each file.
