@@ -1,7 +1,12 @@
 # AverageMiniProject
 Calculating Average Mark
 
-This program basically is for university students.
+'''
+This is my very first programming mini project with python and these codes are very basic and primary,
+especially the first version. so i recommend you to checkout the second version only.
+'''
+
+Program is basically a faster way for university students to calculate their final semister average mark.
 first each X modular lessons count is taken from user and after that, each of those X modular lessons has to be inserted from user.
 
 Version 1 series supports from half modluar lessons till four modular lessosn.
